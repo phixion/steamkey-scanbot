@@ -1,1 +1,1 @@
-steamkey-scanbot
+steamkey-scan-bot
